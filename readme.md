@@ -110,7 +110,7 @@ Feel free to add or request some. Full list is [here](http://www.databar-barcode
 |17         |EXPIRATION DATE (YYMMDD)                    |6          |6          |
 |20         |INTERNAL PRODUCT VARIANT                    |2          |2          |
 |37         |NUMBER OF UNITS CONTAINED                   |1          |8          |
-|93         |NUMBER OF UNITS CONTAINED                   |1          |90         |
+|93         |COMPANY INTERNAL INFORMATION                |1          |90         |
 |3300       |CONTAINER GROSS WEIGHT (KG)                 |6          |6          |
 |3301       |CONTAINER GROSS WEIGHT (KG)                 |6          |6          |
 |390(n)     |AMOUNT PAYABLE - SINGLE MONETARY AREA       |1          |15         |
